@@ -14,3 +14,13 @@ Soltutions to Task-2 of Nagarro Bootcamp by Harsh Sagar Garg
 * Which batsman got stumped out maximum number of times?
 * Which non-striker has been part of maximum number of runouts?
 * Make at least 5 more new queries and find answers to them.
+
+## Part-2
+### Dataset 2: Delhi Weather Data
+ Link: https://www.kaggle.com/mahirkukreja/delhi-weather-data
+* Clean the data. Detect and remove outliers.
+* Make a plot of different numeric features like rain, snow, dewptm, etc. over the duration of a month or year or day. Check out this example: https://imgur.com/8cWLxiw
+ In each subplot,
+ y-axis: any numeric feature
+ x-axis: time (in case of month, it has range 1-12)
+* Make pie charts for different weather conditions in a month. Check out this example: https://imgur.com/NDgdPD6
